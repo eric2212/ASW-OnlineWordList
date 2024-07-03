@@ -34,3 +34,4 @@ ngu
 thằng ngu
 thk ngu
 con ngu
+con cặc
